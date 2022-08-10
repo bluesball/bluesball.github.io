@@ -1,5 +1,5 @@
 /*
-	Future Imperfect by HTML5 UP
+	Striped by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -8,17 +8,15 @@
 
 	var	$window = $(window),
 		$body = $('body'),
-		$menu = $('#menu'),
-		$sidebar = $('#sidebar'),
-		$main = $('#main');
+		$document = $(document);
 
 	// Breakpoints.
 		breakpoints({
-			xlarge:   [ '1281px',  '1680px' ],
-			large:    [ '981px',   '1280px' ],
-			medium:   [ '737px',   '980px'  ],
-			small:    [ '481px',   '736px'  ],
-			xsmall:   [ null,      '480px'  ]
+			desktop:   [ '737px',   null     ],
+			wide:      [ '1201px',  null     ],
+			narrow:    [ '737px',   '1200px' ],
+			narrower:  [ '737px',   '1000px' ],
+			mobile:    [ null,      '736px'  ]
 		});
 
 	// Play initial animations on page load.
@@ -28,68 +26,45 @@
 			}, 100);
 		});
 
-	// Menu.
-		$menu
-			.appendTo($body)
-			.panel({
-				delay: 500,
-				hideOnClick: true,
-				hideOnSwipe: true,
-				resetScroll: true,
-				resetForms: true,
-				side: 'right',
-				target: $body,
-				visibleClass: 'is-menu-visible'
-			});
+	// Nav.
 
-	// Search (header).
-		var $search = $('#search'),
-			$search_input = $search.find('input');
+		// Height hack.
+		/*
+			var $sc = $('#sidebar, #content'), tid;
 
-		$body
-			.on('click', '[href="#search"]', function(event) {
+			$window
+				.on('resize', function() {
+					window.clearTimeout(tid);
+					tid = window.setTimeout(function() {
+						$sc.css('min-height', $document.height());
+					}, 100);
+				})
+				.on('load', function() {
+					$window.trigger('resize');
+				})
+				.trigger('resize');
+		*/
 
-				event.preventDefault();
+		// Title Bar.
+			$(
+				'<div id="titleBar">' +
+					'<a href="#sidebar" class="toggle"></a>' +
+					'<span class="title">' + $('#logo').html() + '</span>' +
+				'</div>'
+			)
+				.appendTo($body);
 
-				// Not visible?
-					if (!$search.hasClass('visible')) {
-
-						// Reset form.
-							$search[0].reset();
-
-						// Show.
-							$search.addClass('visible');
-
-						// Focus input.
-							$search_input.focus();
-
-					}
-
-			});
-
-		$search_input
-			.on('keydown', function(event) {
-
-				if (event.keyCode == 27)
-					$search_input.blur();
-
-			})
-			.on('blur', function() {
-				window.setTimeout(function() {
-					$search.removeClass('visible');
-				}, 100);
-			});
-
-	// Intro.
-		var $intro = $('#intro');
-
-		// Move to main on <=large, back to sidebar on >large.
-			breakpoints.on('<=large', function() {
-				$intro.prependTo($main);
-			});
-
-			breakpoints.on('>large', function() {
-				$intro.prependTo($sidebar);
-			});
+		// Sidebar
+			$('#sidebar')
+				.panel({
+					delay: 500,
+					hideOnClick: true,
+					hideOnSwipe: true,
+					resetScroll: true,
+					resetForms: true,
+					side: 'left',
+					target: $body,
+					visibleClass: 'sidebar-visible'
+				});
 
 })(jQuery);
