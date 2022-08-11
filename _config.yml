@@ -1,0 +1,29 @@
+title: Logs do Bluesball
+logo: /assets/img/profile.png
+email: bluesball@gmail.com
+description: Um registro dos labs que fiz e prentendo fazer (talvez).
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/bluesball
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/joaopauloscosta
+
+navigation:
+  - name: Readme
+    link: ./index.html
+#    sublist:
+#      - name: Image
+#        link: ./index.html#small-image
+  - name: Packer Proxmox
+    link: ./packer-proxmox.html
