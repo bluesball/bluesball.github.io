@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 # Proxmox + Packer = Sucesso
@@ -102,3 +102,5 @@ Para aprender mais sobre o Packer:
 * [Documentação Oficial](https://www.packer.io/docs)
 * [Treinamento de Packer na LinuxTips](https://linuxtips.com.br/products/treinamento-descomplicando-o-packer)
 * [Treinamento de IAC na LinuxTips](https://linuxtips.com.br/products/treinamento-infra-as-code-expert)
+
+[Voltar](./)

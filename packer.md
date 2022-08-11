@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 ---
-
-## Packer
-
+# Packer
+### Indice
 * [Proxmox](./packer-proxmox.html)
+
+[Voltar](./)
