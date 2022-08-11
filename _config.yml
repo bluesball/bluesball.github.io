@@ -25,5 +25,8 @@ navigation:
 #    sublist:
 #      - name: Image
 #        link: ./index.html#small-image
-  - name: Packer Proxmox
-    link: ./packer-proxmox.html
+  - name: Packer
+    link: ./packer.html
+    sublist:
+      - name: Proxmox
+        link: ./packer-proxmox.html
