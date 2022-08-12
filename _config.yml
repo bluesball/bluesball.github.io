@@ -18,9 +18,12 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/joaopauloscosta
-  - name: Conquistas
+  - name: Treinamentos
     icon: <i class="fa-solid fa-award"></i>
     link: ./achievement
+  - name: Certificações
+    icon: <i class="fa-solid fa-award"></i>
+    link: ./certification
 
 navigation:
   - name: Readme
