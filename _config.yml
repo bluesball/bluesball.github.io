@@ -12,6 +12,9 @@ plugins:
   - jekyll-remote-theme
 
 platforms:
+  - name: Sobre
+    icon: <i class="fa-solid fa-address-book"></i>
+    link: ./about
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/bluesball
@@ -26,11 +29,8 @@ platforms:
     link: ./certification
 
 navigation:
-  - name: Readme
+  - name: Home
     link: ./index.html
-#    sublist:
-#      - name: Image
-#        link: ./index.html#small-image
   - name: Packer
     link: ./packer.html
     sublist:
