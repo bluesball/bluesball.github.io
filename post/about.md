@@ -3,9 +3,9 @@ layout: default
 permalink: /about
 ---
 
-# WhoAmI
+# Oi, eu sou o João Paulo
 
-Olá pessoas e robôs! Eu sou o João Paulo e alguns me chamam de bluesball, um sysadmin que tá migrando para SRE/DevOps mas com um pé em infraestrutura on premisse (por enquanto, espero).
+Olá pessoas e robôs! sou, um sysadmin que tá migrando para SRE/DevOps mas com um pé em infraestrutura on premisse (por enquanto, espero).
 
 Neste blog registro os estudos e laboratórios que faço nessa caminhada para a constante evolução profissional.
 
