@@ -7,6 +7,61 @@ permalink: /achievement
 
 <table>
   <tr>
+    <td><p style="text-align:center"><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2671430" target="_blank"><img src='https://cdn.qwiklabs.com/QUGLXmImia8z2dfmjitAWw4LghpY4CTPfY%2FLEg0SVv4%3D' style="height:120px; width:120px"/></a></p></td>
+    <td><h3><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2671430" target="_blank">Getting Started with Terraform for Google Cloud</a></h3>
+    <b><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b" target="_blank">Google Cloud Skills Boost</a></b><br>
+    Setembro 2022<br>
+    Credential ID: 2671430<br></td> 
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
+    <td><p style="text-align:center"><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2667277" target="_blank"><img src='https://cdn.qwiklabs.com/34jkyscc2nYmpyMtodhKSSJo3etMSuAPKT6JRN3SP3I%3D' style="height:120px; width:120px"/></a></p></td>
+    <td><h3><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2667277" target="_blank">Logging, Monitoring and Observability in Google Cloud</a></h3>
+    <b><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b" target="_blank">Google Cloud Skills Boost</a></b><br>
+    Setembro 2022<br>
+    Credential ID: 2667277<br></td> 
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
+    <td><p style="text-align:center"><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2658048" target="_blank"><img src='https://cdn.qwiklabs.com/tPa0MPQLWwjkWMVeoHLMpkyZCeheEfbL5PGKs%2BIGdkk%3D' style="height:120px; width:120px"/></a></p></td>
+    <td><h3><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2658048" target="_blank">Reliable Google Cloud Infrastructure: Design and Process</a></h3>
+    <b><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b" target="_blank">Google Cloud Skills Boost</a></b><br>
+    Setembro 2022<br>
+    Credential ID: 2658048<br></td> 
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
+    <td><p style="text-align:center"><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2637533" target="_blank"><img src='https://cdn.qwiklabs.com/wBQa8aDdlDE9eAqrYvpuZ%2BBBBgr9djXh%2Fnzix3T%2Bxto%3D' style="height:120px; width:120px"/></a></p></td>
+    <td><h3><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2637533" target="_blank">Developing a Google SRE Culture</a></h3>
+    <b><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b" target="_blank">Google Cloud Skills Boost</a></b><br>
+    Setembro 2022<br>
+    Credential ID: 2637533<br></td> 
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
+    <td><p style="text-align:center"><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2593723" target="_blank"><img src='https://cdn.qwiklabs.com/MoqHnQMreLtiEsVvkaIafpnYTZYnA5fM1XqQz7sVreI%3D' style="height:120px; width:120px"/></a></p></td>
+    <td><h3><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2593723" target="_blank">Google Cloud Fundamentals: Core Infrastructure</a></h3>
+    <b><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b" target="_blank">Google Cloud Skills Boost</a></b><br>
+    Setembro 2022<br>
+    Credential ID: 2593723<br></td> 
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
     <td><p style="text-align:center"><a href="https://www.credential.net/b3e6dcb1-caad-4878-bc99-934f6440ad04" target="_blank"><img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49445630' style="height:120px; width:120px"/></a></p></td>
     <td><h3><a href="https://www.credential.net/b3e6dcb1-caad-4878-bc99-934f6440ad04" target="_blank">HASHICORP EXPERT</a></h3>
     <b><a href="https://linuxtips.io" target="_blank">LINUXtips</a></b><br>
