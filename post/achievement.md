@@ -5,6 +5,18 @@ permalink: /achievement
 
 # Treinamentos
 
+
+<table>
+  <tr>
+    <td><p style="text-align:center"><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2688822" target="_blank"><img src='https://cdn.qwiklabs.com/qsASd7278SJIwTP3XlF3uwGl6qHCJ7PCUrOq%2FhEarM0%3D' style="height:120px; width:120px"/></a></p></td>
+    <td><h3><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2688822" target="_blank">Cloud Operations and Service Mesh with Anthos</a></h3>
+    <b><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b" target="_blank">Google Cloud Skills Boost</a></b><br>
+    Outubro 2022<br>
+    Credential ID: 2688822<br></td> 
+  </tr>
+ </table>
+
+
 <table>
   <tr>
     <td><p style="text-align:center"><a href="https://www.cloudskillsboost.google/public_profiles/e6d92210-d4dc-485e-a07b-335eb2c7bc4b/badges/2671430" target="_blank"><img src='https://cdn.qwiklabs.com/QUGLXmImia8z2dfmjitAWw4LghpY4CTPfY%2FLEg0SVv4%3D' style="height:120px; width:120px"/></a></p></td>
