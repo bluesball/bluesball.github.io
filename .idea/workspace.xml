@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39acaa06-22cf-4013-929d-b049c51bcf2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/2025-12-15-welcome.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_404.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_announce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_comments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_hero.md.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_markdown_footer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_markdown_header.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_references.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_sidebar.example.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marmite.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/archive-2025-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/archive-2025.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/archive-2025.rss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/archive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/authors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/index.rss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/marmite.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/pages-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/pages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/series.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/Atkinson-Hyperlegible-Regular-102.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/avatar-placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/catppuccin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/clean.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/dracula.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/github.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/gruvbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/iceberg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/minimal_wb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/monokai.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/nord.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/one.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/solarized.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/colorschemes/typewriter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/marmite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/marmite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/pico.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/search_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/streams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/site/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head-custom-google-analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head-custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header-title.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/mobile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-08-03-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-minimalistic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/minimalistic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/rouge-github.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/another-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/colors-auto.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/colors-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/colors-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/eu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/scale.fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll-theme-minimalistic.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packer-proxmox.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/achievement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/certification.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/file.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/bootstrap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/cibuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/release" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/validate-html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="58" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="36tbhJbQASfig1K1RvWB9vATDWl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;gh-pages&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PY-253.28294.336" />
+        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39acaa06-22cf-4013-929d-b049c51bcf2d" name="Changes" comment="" />
+      <created>1765828932675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765828932675</updated>
+      <workItem from="1765828933804" duration="977000" />
+      <workItem from="1765833136903" duration="1079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
