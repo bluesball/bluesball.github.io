@@ -1,38 +1,58 @@
+# Site settings
 title: Logs do Bluesball
-logo: /assets/img/profile.png
 email: bluesball@gmail.com
-description: Um registro dos labs que fiz e prentendo fazer (talvez).
-favicon: true
-color-scheme: auto
+description: "Um registro dos labs que fiz e pretendo fazer (talvez)."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bluesball.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: João Paulo
+  twitter:
+  picture: /assets/img/profile.png
 
+# Theme settings
+remote_theme: rochacbruno/marmite
+
+# Marmite theme settings
+marmite_pro: false # Set to true to enable pro features
+marmite_analytics: "" # Google Analytics ID
+marmite_disqus: "" # Disqus shortname
+marmite_color: "dark-lime" # Options: dark-cyan, dark-blue, dark-red, dark-lime, dark-orange, dark-pink, dark-purple, dark-green
+marmite_style: "auto" # Options: light, dark, auto
+
+# Social icons in the footer
+social:
+  - title: github
+    url: https://github.com/bluesball
+  - title: linkedin
+    url: https://www.linkedin.com/in/joaopauloscosta
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Packer
+    url: /packer.html
+  - title: Sobre
+    url: /post/about.html
+  - title: Treinamentos
+    url: /post/achievement.html
+  - title: Certificações
+    url: /post/certification.html
+
+# Build settings
+markdown: kramdown
 plugins:
-  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
-  - jemoji
+  - jekyll-sitemap
   - jekyll-remote-theme
 
-platforms:
-  - name: Sobre
-    icon: <i class="fa-solid fa-address-book"></i>
-    link: ./about
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/bluesball
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/joaopauloscosta
-  - name: Treinamentos
-    icon: <i class="fa-solid fa-award"></i>
-    link: ./achievement
-  - name: Certificações
-    icon: <i class="fa-solid fa-award"></i>
-    link: ./certification
-
-navigation:
-  - name: Home
-    link: ./index.html
-  - name: Packer
-    link: ./packer.html
-    sublist:
-      - name: Proxmox
-        link: ./packer-proxmox.html
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
