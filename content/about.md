@@ -1,6 +1,6 @@
 ---
 title: "Sobre"
-date: 15-12-2025
+date: 2025-12-15
 ---
 
 # Sobre
