@@ -1,9 +1,10 @@
 # METADADOS BÁSICOS
 name: JP Logs
-description: Artigos e anotações sobre tecnologia, infraestrutura e desenvolvimento.
+tagline: Artigos e anotações sobre tecnologia, infraestrutura e desenvolvimento.
 author: João Paulo
 language: pt-BR
-url: 'https://bluesball.github.io'
+url: 'bluesball.github.io'
+https: true
 
 # CAMINHOS
 content_path: content
@@ -18,7 +19,7 @@ menu:
   - [Sobre, about.html]
   - [Tags, tags.html]
   - [Arquivo, archive.html]
-  - [GitHub, https://github.com/bluesball]
+  - [GitHub, https://github.com/bluesball/bluesball.github.io]
 
 # CONFIGURAÇÕES DE CONTEÚDO
 pagination: 10
@@ -39,7 +40,8 @@ archives_content_title: SELECT * FROM posts WHERE year = '$year'
 search_title: $ grep -rl "$@" ~/
 
 # ELEMENTOS VISUAIS
-footer: '<div>Powered by <a href="https://github.com/rochacbruno/marmite">Marmite</a> | <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div>'
+footer: |
+  <div>Powered by <a href="https://github.com/rochacbruno/marmite">Marmite</a> | <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div>
 card_image: ''
 extra:
   colorscheme: nord
@@ -49,7 +51,8 @@ default_author: 'João Paulo'
 authors:
   'João Paulo':
     name: João Paulo
-    url: 'https://github.com/bluesball'
+    links:
+      - ['GitHub', 'https://github.com/bluesball']
 
 # Não precisa alterar
 streams: {}

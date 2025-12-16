@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39acaa06-22cf-4013-929d-b049c51bcf2d" name="Changes" comment="Atualizando conteúdo da página &quot;Sobre&quot; com informações detalhadas sobre carreira e objetivos do blog">
+    <list default="true" id="39acaa06-22cf-4013-929d-b049c51bcf2d" name="Changes" comment="Atualizando configurações do marmite.yaml para refletir novo conteúdo e estrutura do site">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marmite.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/marmite.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <updated>1765828932675</updated>
       <workItem from="1765828933804" duration="977000" />
       <workItem from="1765833136903" duration="1919000" />
-      <workItem from="1765841863891" duration="2980000" />
+      <workItem from="1765841863891" duration="3688000" />
     </task>
     <task id="LOCAL-00001" summary="Removendo configuração e conteúdo do site Jekyll">
       <option name="closed" value="true" />
@@ -105,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765844459194</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Atualizando configurações do marmite.yaml para refletir novo conteúdo e estrutura do site">
+      <option name="closed" value="true" />
+      <created>1765844895317</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765844895317</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Atualizando configurações do marmite.yaml para refletir novo conteúdo e estrutura do site">
+      <option name="closed" value="true" />
+      <created>1765845166497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765845166497</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +131,7 @@
     <MESSAGE value="Adicionando workflow para deploy no GitHub Pages" />
     <MESSAGE value="Renomeando job de build para deploy e configurando ambiente do GitHub Pages" />
     <MESSAGE value="Atualizando conteúdo da página &quot;Sobre&quot; com informações detalhadas sobre carreira e objetivos do blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizando conteúdo da página &quot;Sobre&quot; com informações detalhadas sobre carreira e objetivos do blog" />
+    <MESSAGE value="Atualizando configurações do marmite.yaml para refletir novo conteúdo e estrutura do site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando configurações do marmite.yaml para refletir novo conteúdo e estrutura do site" />
   </component>
 </project>
