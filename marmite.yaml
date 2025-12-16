@@ -31,6 +31,7 @@ toc: true
 json_feed: true
 show_next_prev_links: true
 publish_md: false
+gallery_create_thumbnails: false
 
 # TÍTULOS DAS PÁGINAS (estilo shell)
 pages_title: $ ls ~/Pages/
