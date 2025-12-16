@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39acaa06-22cf-4013-929d-b049c51bcf2d" name="Changes" comment="Atualizando configurações do marmite.yaml para refletir novo conteúdo e estrutura do site">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39acaa06-22cf-4013-929d-b049c51bcf2d" name="Changes" comment="Atualizando marmite.yaml e workspace.xml para refletir ajustes nas configurações de site e estrutura" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <updated>1765828932675</updated>
       <workItem from="1765828933804" duration="977000" />
       <workItem from="1765833136903" duration="1919000" />
-      <workItem from="1765841863891" duration="3688000" />
+      <workItem from="1765841863891" duration="4216000" />
     </task>
     <task id="LOCAL-00001" summary="Removendo configuração e conteúdo do site Jekyll">
       <option name="closed" value="true" />
@@ -120,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765845166497</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Atualizando marmite.yaml e workspace.xml para refletir ajustes nas configurações de site e estrutura">
+      <option name="closed" value="true" />
+      <created>1765845741052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765845741052</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +138,7 @@
     <MESSAGE value="Renomeando job de build para deploy e configurando ambiente do GitHub Pages" />
     <MESSAGE value="Atualizando conteúdo da página &quot;Sobre&quot; com informações detalhadas sobre carreira e objetivos do blog" />
     <MESSAGE value="Atualizando configurações do marmite.yaml para refletir novo conteúdo e estrutura do site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizando configurações do marmite.yaml para refletir novo conteúdo e estrutura do site" />
+    <MESSAGE value="Atualizando marmite.yaml e workspace.xml para refletir ajustes nas configurações de site e estrutura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando marmite.yaml e workspace.xml para refletir ajustes nas configurações de site e estrutura" />
   </component>
 </project>

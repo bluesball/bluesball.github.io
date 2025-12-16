@@ -5,6 +5,7 @@ author: João Paulo
 language: pt-BR
 url: 'bluesball.github.io'
 https: true
+theme: basic
 
 # CAMINHOS
 content_path: content
