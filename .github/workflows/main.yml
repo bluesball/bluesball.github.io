@@ -15,21 +15,18 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout 🛎
         uses: actions/checkout@v4
 
       - name: Install marmite 🫙
-        run: cargo install --git https://github.com/rochacbruno/marmite --tag v0.9.2
+        run: cargo install --git https://github.com/rochacbruno/marmite --branch main
 
       - name: Build site 🏗️
-        run: marmite . site -vv
+        run: marmite . site --debug
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

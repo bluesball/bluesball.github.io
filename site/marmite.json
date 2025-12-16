@@ -1,23 +1,23 @@
 {
   "marmite_version": "0.2.6",
-  "posts": 1,
-  "pages": 1,
-  "generated_at": "2025-12-15 18:20:16.651413414 -03:00",
-  "timestamp": 1765833616,
-  "elapsed_time": 0.029564974,
+  "posts": 2,
+  "pages": 0,
+  "generated_at": "2025-12-15 22:15:14.588440781 -03:00",
+  "timestamp": 1765847714,
+  "elapsed_time": 0.020472192,
   "config": {
-    "name": "JP_Logs",
-    "tagline": "Artigos e Anotaçoes",
+    "name": "JP Logs",
+    "tagline": "Artigos e anotações sobre tecnologia, infraestrutura e desenvolvimento.",
     "url": "bluesball.github.io",
     "https": null,
-    "footer": "<div>Powered by <a href=\"https://github.com/rochacbruno/marmite\">Marmite</a> Give us a &star; | <small><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY_NC-SA</a></small></div>",
-    "language": "",
+    "footer": "<div>Powered by <a href=\"https://github.com/rochacbruno/marmite\">Marmite</a> | <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC BY-NC-SA 4.0</a></div>\n",
+    "language": "pt-BR",
     "pagination": 10,
-    "pages_title": "Pages",
-    "tags_title": "Tags",
-    "tags_content_title": "Posts tagged with '$tag'",
-    "archives_title": "Archive",
-    "archives_content_title": "Posts from '$year'",
+    "pages_title": "$ ls ~/Pages/",
+    "tags_title": "SELECT * FROM posts GROUP BY tag",
+    "tags_content_title": "SELECT * FROM posts WHERE tag = '$tag'",
+    "archives_title": "SELECT * FROM posts GROUP BY year",
+    "archives_content_title": "SELECT * FROM posts WHERE year = '$year'",
     "streams_title": "Streams",
     "streams_content_title": "Posts from '$stream'",
     "series_title": "Series",
@@ -25,8 +25,8 @@
     "default_author": "",
     "authors_title": "Authors",
     "enable_search": true,
-    "enable_related_content": false,
-    "search_title": "",
+    "enable_related_content": true,
+    "search_title": "$ grep -rl \"$@\" ~/",
     "content_path": "content",
     "site_path": "",
     "templates_path": "templates",
@@ -35,29 +35,35 @@
     "card_image": "",
     "banner_image": "",
     "logo_image": "",
-    "default_date_format": "%b %e, %Y",
+    "default_date_format": "%d/%m/%Y",
     "menu": [
+      [
+        "Home",
+        "index.html"
+      ],
+      [
+        "Sobre",
+        "about.html"
+      ],
       [
         "Tags",
         "tags.html"
       ],
       [
-        "Archive",
+        "Arquivo",
         "archive.html"
       ],
       [
-        "Authors",
-        "authors.html"
+        "GitHub",
+        "https://github.com/bluesball/bluesball.github.io"
       ]
     ],
-    "extra": {
-      "colorscheme": "nord"
-    },
+    "extra": null,
     "authors": {},
     "streams": {},
     "series": {},
     "toc": true,
-    "json_feed": false,
+    "json_feed": true,
     "show_next_prev_links": true,
     "publish_md": false,
     "source_repository": null,

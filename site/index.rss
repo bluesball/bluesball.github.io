@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>JP_Logs</title><link>http://bluesball.github.io</link><description>Artigos e Anotaçoes</description><pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate><lastBuildDate>Mon, 15 Dec 2025 21:20:16 GMT</lastBuildDate><generator>marmite</generator><item><title>Welcome to Marmite</title><link>http://bluesball.github.io/welcome.html</link><guid>http://bluesball.github.io/welcome.html</guid><pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate><source url="http://bluesball.github.io">index</source><content:encoded><![CDATA[<!-- Content Injected to every content markdown header -->
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>JP Logs</title><link>http://bluesball.github.io</link><description>Artigos e anotações sobre tecnologia, infraestrutura e desenvolvimento.</description><pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate><lastBuildDate>Tue, 16 Dec 2025 01:15:14 GMT</lastBuildDate><generator>marmite</generator><item><title>Sobre</title><link>http://bluesball.github.io/sobre.html</link><guid>http://bluesball.github.io/sobre.html</guid><pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate><source url="http://bluesball.github.io">index</source><content:encoded><![CDATA[<!-- Content Injected to every content markdown header -->
+<p>Meu nome é João Paulo, sou técnico governamental de TI e trabalho diariamente com infraestrutura, automação e sistemas distribuídos. Meu foco é garantir que ambientes críticos operem de forma estável, segura e escalável — geralmente em cenários que envolvem servidores Linux, virtualização, redes e Kubernetes.</p>
+<p>No meu dia a dia, lido com:</p>
+<ul>
+<li><strong>Kubernetes:</strong> Gerenciamento de clusters, configuração de Gateways API, Ingress, balanceamento de carga, storage etc.</li>
+<li><strong>CI/CD:</strong> Criação e manutenção de pipelines no GitLab para automação de builds, testes e deploys.</li>
+<li><strong>Containers:</strong> Containerização de aplicações e otimização de imagens.</li>
+<li><strong>Troubleshooting:</strong> Resolução de problemas complexos, desde questões de rede e certificados até falhas em serviços distribuídos.</li>
+<li><strong>Segurança:</strong> Utilização de ferramentas como HashiCorp Vault para gestão de segredos, Teleport para acesso seguro e Elastic Stack para monitoramento, logs e auditoria.</li>
+</ul>
+<p>Este blog é um registro de aprendizados reais do ambiente de produção: problemas que causaram falhas, investigações, soluções, testes e decisões de arquitetura. O objetivo é compartilhar conhecimento prático sobre DevOps, SRE, Kubernetes, Linux e infraestrutura — sem marketing ou fórmulas mágicas, apenas o que funciona (e o que não funciona) na prática.</p>
+<!-- Content Injected to every content markdown footer -->
+]]></content:encoded></item><item><title>Welcome to Marmite</title><link>http://bluesball.github.io/welcome.html</link><guid>http://bluesball.github.io/welcome.html</guid><pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate><source url="http://bluesball.github.io">index</source><content:encoded><![CDATA[<!-- Content Injected to every content markdown header -->
 <p>This is your first post!</p>
 <h2><a href="#edit-this-content" aria-hidden="true" class="anchor" id="edit-this-content"></a>Edit this content</h2>
 <p>edit on <code>content/{date}-welcome.md</code></p>

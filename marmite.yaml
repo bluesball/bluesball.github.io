@@ -1,11 +1,11 @@
 # METADADOS BÁSICOS
 name: JP Logs
 tagline: Artigos e anotações sobre tecnologia, infraestrutura e desenvolvimento.
-author: João Paulo
+author: Joao Paulo
 language: pt-BR
 url: 'bluesball.github.io'
-https: true
-theme: basic
+#https: true
+#theme: basic
 
 # CAMINHOS
 content_path: content
@@ -31,7 +31,7 @@ toc: true
 json_feed: true
 show_next_prev_links: true
 publish_md: false
-gallery_create_thumbnails: false
+#gallery_create_thumbnails: false
 
 # TÍTULOS DAS PÁGINAS (estilo shell)
 pages_title: $ ls ~/Pages/
@@ -44,18 +44,17 @@ search_title: $ grep -rl "$@" ~/
 # ELEMENTOS VISUAIS
 footer: |
   <div>Powered by <a href="https://github.com/rochacbruno/marmite">Marmite</a> | <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div>
-card_image: ''
-extra:
-  colorscheme: nord
+#extra:
+#  colorscheme: nord
 
 # AUTORES
-default_author: 'João Paulo'
-authors:
-  'João Paulo':
-    name: João Paulo
-    links:
-      - ['GitHub', 'https://github.com/bluesball']
+#default_author: 'Joao Paulo'
+#authors:
+#  'Joao Paulo':
+#    name: João Paulo
+#    links:
+#      - ['GitHub', 'https://github.com/bluesball']
 
 # Não precisa alterar
-streams: {}
-series: {}
+#streams: {}
+#series: {}
