@@ -1,0 +1,42 @@
+baseURL = 'https://bluesball.github.io/'
+languageCode = 'pt-br'
+title = 'JP Logs'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = 'auto'
+    showReadingTime = true
+    displayFullContent = false
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    
+    # Metadata from marmite.yaml
+    description = 'Artigos e anotações sobre tecnologia, infraestrutura e desenvolvimento.'
+    author = 'João Paulo'
+
+    [params.profileMode]
+        enabled = true
+        title = 'JP Logs'
+        subtitle = 'Artigos e anotações sobre tecnologia, infraestrutura e desenvolvimento.'
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/bluesball"
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 10
+    [[menu.main]]
+        identifier = "about"
+        name = "Sobre"
+        url = "/about/"
+        weight = 20
+    [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 30

@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39acaa06-22cf-4013-929d-b049c51bcf2d" name="Changes" comment="Atualizando workflow para usar marmite v0.9.2 e ajustando comandos de build">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marmite.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/marmite.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/archive-2025-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/archive-2025-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/archive-2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/archive-2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/archive-2025.rss" beforeDir="false" afterPath="$PROJECT_DIR$/site/archive-2025.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/archive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/authors.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/authors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/index.rss" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/marmite.json" beforeDir="false" afterPath="$PROJECT_DIR$/site/marmite.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/pages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/series.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/series.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/site/static/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/streams.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/streams.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/welcome.html" afterDir="false" />
-    </list>
+    <list default="true" id="39acaa06-22cf-4013-929d-b049c51bcf2d" name="Changes" comment="Atualizando estrutura e conteúdo do site com melhorias na linguagem, menus, formatação e SEO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +68,7 @@
       <updated>1765828932675</updated>
       <workItem from="1765828933804" duration="977000" />
       <workItem from="1765833136903" duration="1919000" />
-      <workItem from="1765841863891" duration="6760000" />
+      <workItem from="1765841863891" duration="6902000" />
     </task>
     <task id="LOCAL-00001" summary="Removendo configuração e conteúdo do site Jekyll">
       <option name="closed" value="true" />
@@ -170,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765846918598</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Atualizando estrutura e conteúdo do site com melhorias na linguagem, menus, formatação e SEO">
+      <option name="closed" value="true" />
+      <created>1765848640948</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765848640948</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +174,7 @@
     <MESSAGE value="Atualizando marmite.yaml e workspace.xml para refletir ajustes nas configurações e estrutura" />
     <MESSAGE value="Atualizando marmite.yaml para desativar a criação de thumbnails na galeria" />
     <MESSAGE value="Atualizando workflow para usar marmite v0.9.2 e ajustando comandos de build" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizando workflow para usar marmite v0.9.2 e ajustando comandos de build" />
+    <MESSAGE value="Atualizando estrutura e conteúdo do site com melhorias na linguagem, menus, formatação e SEO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando estrutura e conteúdo do site com melhorias na linguagem, menus, formatação e SEO" />
   </component>
 </project>
